@@ -5,6 +5,10 @@
 
 <div id="badges" align="center">
   <a href="https://t.me/timrmn">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue" alt="Telegram Badge"/>
   </a>
+</div>
+
+<div id="badges" align="center">
+    <img src="https://komarev.com/ghpvc/?username=romatimon&style=flat-square&color=blue" alt=""/>
 </div>
