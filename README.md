@@ -32,3 +32,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg"  title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 </div>
+
+###
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romatimon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
