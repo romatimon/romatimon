@@ -17,7 +17,7 @@
 - :telescope: Занимаюсь проектированием и разработкой серверной части приложений отвечающих за логику обработки данных, взаимодействие с базами данных и другими сервисами. Созданием API для взаимодействия между клиентскими приложениями (веб, мобильные, десктопные) и серверной частью.
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Инструменты:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
