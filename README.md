@@ -7,11 +7,15 @@
   <a href="https://t.me/timrmn">
     <img src="https://img.shields.io/badge/Telegram-blue" alt="Telegram Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/timrmn/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
   <h1>
   Привет!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-</div>
 
 Я Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 -  Занимаюсь проектированием и разработкой серверной части приложений отвечающих за логику обработки данных, взаимодействие с базами данных и другими сервисами. Созданием API для взаимодействия между клиентскими приложениями (веб, мобильные, десктопные) и серверной частью. Также имею опыт настройки и управления проектом на удаленном сервере, включая его мониторинг. 
