@@ -35,8 +35,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"  title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"  title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-icon.svg"  title="Gunicorn" alt="Gunicorn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg"  title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 </div>
 
 ###
